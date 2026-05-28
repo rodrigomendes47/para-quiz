@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PARA QUIZ</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="app-container">
+        <!-- Tela de Início / Leaderboard -->
+        <div id="screen-start" class="screen active">
+            <img src="assets/main_logo.png" alt="Logo Principal" class="mascot jumping">
+            <h1 class="bounce-text">PARA QUIZ</h1>
+            <div class="card glass-panel">
+                <input type="text" id="player-name" placeholder="Digite seu nome..." maxlength="15"
+                    autocomplete="off" />
+                <button id="btn-start" class="btn-primary">JOGAR AGORA</button>
+            </div>
+
+            <div class="leaderboard card">
+                <h2>Leaderboard 🏆</h2>
+                <ul id="leaderboard-list">
+                    <!-- Gerado no JS -->
+                </ul>
+            </div>
+        </div>
+
+        <!-- Modal de Configuração -->
+        <div id="modal-config" class="modal-overlay hidden">
+            <div class="modal-content glass-panel">
+                <h2>Configuração da Rodada</h2>
+
+                <div class="config-section">
+                    <h3>Temas:</h3>
+                    <label class="checkbox-label">
+                        <input type="checkbox" class="theme-checkbox" value="questions/perguntas_surdolimpico.json"
+                            checked>
+                        Movimento Surdolímpico
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" class="theme-checkbox" value="questions/perguntas_parlamentar.json"
+                            checked>
+                        Guia Parlamentar
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" class="theme-checkbox" value="questions/perguntas_classificacao.json"
+                            checked>
+                        Classificação no Paradesporto
+                    </label>
+                </div>
+
+                <div class="config-section">
+                    <h3>Número de Questões (10 a 30):</h3>
+                    <input type="number" id="num-questions" min="10" max="30" value="10" class="input-number">
+                </div>
+
+                <button id="btn-confirm-config" class="btn-primary">CONFIRMAR</button>
+            </div>
+        </div>
+
+        <!-- Tela de Jogo -->
+        <div id="screen-game" class="screen hidden">
+            <div class="top-bar">
+                <div class="score-pill">Pontos: <span id="score-display">0</span></div>
+                <div class="question-count">Q <span id="current-q">1</span>/<span id="total-q">10</span></div>
+            </div>
+
+            <div class="mascot-container">
+                <img src="assets/main_logo.png" alt="Host" class="mascot-small float" id="host-mascot">
+                <img src="assets/main_logo.png" alt="Adversário" class="mascot-small float reverse" id="rival-mascot">
+            </div>
+
+            <div class="question-card card glass-panel">
+                <h2 id="question-text">Carregando pergunta...</h2>
+            </div>
+
+            <div id="options-container" class="options-grid">
+                <!-- Botões de opção gerados no JS -->
+            </div>
+        </div>
+
+        <!-- Tela de Fim de Jogo -->
+        <div id="screen-end" class="screen hidden">
+            <img src="assets/main_logo.png" alt="Logo Principal" class="mascot jumping">
+            <h1>FIM DE JOGO!</h1>
+            <div class="card glass-panel text-center">
+                <h2 class="final-score-title">Você fez</h2>
+                <div class="final-score" id="final-score-display">0</div>
+                <h2>pontos!</h2>
+                <button id="btn-restart" class="btn-primary">JOGAR NOVAMENTE</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Áudio Synth Script -->
+    <script src="app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,272 @@
+[
+    {
+        "pergunta": "Qual a relação conceitual entre Esporte Adaptado e Paradesporto?",
+        "resposta": "O Esporte Adaptado é o conjunto maior; o Paradesporto é a parte focada em pessoas com deficiência.",
+        "alternativas_erradas": [
+            "O Paradesporto é o conjunto maior que engloba o Esporte Adaptado e o lazer da terceira idade.",
+            "São sinônimos perfeitos aplicados exclusivamente ao contexto olímpico e paralímpico.",
+            "O Esporte Adaptado é apenas escolar e o Paradesporto é unicamente de alto rendimento."
+        ]
+    },
+    {
+        "pergunta": "Quem faz parte do universo do Paradesporto segundo o Guia?",
+        "resposta": "Pessoas com deficiência física, visual, intelectual, auditiva e psicossocial.",
+        "alternativas_erradas": [
+            "Exclusivamente atletas com deficiência física e motora que usam cadeira de rodas.",
+            "Apenas pessoas com deficiências temporárias causadas por acidentes de trabalho.",
+            "Qualquer cidadão acima de 60 anos com recomendação médica para atividades físicas."
+        ]
+    },
+    {
+        "pergunta": "Quais são as três principais dimensões do esporte mencionadas?",
+        "resposta": "Esporte Educação, Esporte Lazer (Participação) e Esporte Performance (Rendimento).",
+        "alternativas_erradas": [
+            "Esporte Recreativo, Esporte Escolar e Esporte Profissionalizante.",
+            "Esporte de Quadra, Esporte de Campo e Esporte de Pista.",
+            "Esporte Municipal, Esporte Estadual e Esporte Federal."
+        ]
+    },
+    {
+        "pergunta": "Qual o principal objetivo do 'Esporte Educação' no paradesporto?",
+        "resposta": "Desenvolvimento integral e cidadania, evitando a seletividade e a hipercompetitividade.",
+        "alternativas_erradas": [
+            "Selecionar os melhores atletas de 8 a 12 anos para a seleção paralímpica principal.",
+            "Substituir as disciplinas tradicionais da escola por treinos intensivos de atletismo.",
+            "Promover competições com prêmios em dinheiro para incentivar a permanência na escola."
+        ]
+    },
+    {
+        "pergunta": "Como o documento caracteriza o 'Esporte Lazer ou Participação'?",
+        "resposta": "Prática voluntária voltada ao bem-estar, saúde e socialização, sem vínculos formais.",
+        "alternativas_erradas": [
+            "Uma modalidade obrigatória por lei para todas as empresas com mais de 100 funcionários.",
+            "O estágio final e mais complexo da carreira de um atleta de alto rendimento.",
+            "Práticas reguladas por federações internacionais com foco em recordes mundiais."
+        ]
+    },
+    {
+        "pergunta": "O que define o 'Esporte Performance ou Rendimento'?",
+        "resposta": "Busca por resultados, superação, regras formais e representação de clubes ou países.",
+        "alternativas_erradas": [
+            "Atividades físicas lúdicas realizadas sem qualquer tipo de pontuação ou tempo.",
+            "Programas de reabilitação motora realizados exclusivamente em ambientes hospitalares.",
+            "Práticas pedagógicas voltadas para a alfabetização de crianças com deficiência."
+        ]
+    },
+    {
+        "pergunta": "Quais os quatro eixos estruturantes do paradesporto para investimentos?",
+        "resposta": "Recursos Humanos, Infraestrutura, Equipamentos/Materiais e Eventos/Competições.",
+        "alternativas_erradas": [
+            "Marketing, Patrocínio Privado, Redes Sociais e Tecnologia de Ponta.",
+            "Transporte Público, Isenção Fiscal, Nutrição e Suplementação.",
+            "Legislação Eleitoral, Turismo Esportivo, Segurança Pública e Arbitragem."
+        ]
+    },
+    {
+        "pergunta": "No eixo de Recursos Humanos, quem além dos atletas é fundamental?",
+        "resposta": "Profissionais de EF, treinadores, guias, calheiros, classificadores, médicos e gestores.",
+        "alternativas_erradas": [
+            "Apenas os árbitros internacionais escalados pelo Comitê Olímpico Internacional.",
+            "Exclusivamente os familiares diretos dos atletas que atuam como patrocinadores.",
+            "Agentes de trânsito e motoristas de aplicativos de transporte privado."
+        ]
+    },
+    {
+        "pergunta": "Por que o eixo de 'Infraestrutura' exige atenção dos gestores públicos?",
+        "resposta": "Porque envolve a acessibilidade arquitetônica dos locais (rotas, vestiários e banheiros).",
+        "alternativas_erradas": [
+            "Porque exige a construção de estádios para 50 mil pessoas em todos os municípios.",
+            "Porque necessita da climatização artificial de todas as pistas de atletismo abertas.",
+            "Porque foca unicamente na pavimentação das rodovias que ligam aos centros de treino."
+        ]
+    },
+    {
+        "pergunta": "O que caracteriza o eixo de 'Equipamentos e Materiais' no paradesporto?",
+        "resposta": "A necessidade de materiais específicos (cadeiras esportivas, bolas com guizo, próteses).",
+        "alternativas_erradas": [
+            "A exigência de uniformes confeccionados com fios de ouro ou tecnologia espacial.",
+            "O uso exclusivo de cronômetros analógicos e tabelas de pontuação manuais.",
+            "A proibição do uso de qualquer recurso tecnológico durante as partidas oficiais."
+        ]
+    },
+    {
+        "pergunta": "Qual a importância do eixo de 'Eventos e Competições'?",
+        "resposta": "Estimular a prática, dar visibilidade, promover intercâmbio e identificar talentos.",
+        "alternativas_erradas": [
+            "Garantir o monopólio financeiro das transmissões televisivas por canais abertos.",
+            "Substituir os treinamentos diários por festivais comerciais de fim de semana.",
+            "Eliminar a necessidade de exames médicos prévios para competições de alto impacto."
+        ]
+    },
+    {
+        "pergunta": "Quem são os 'guias' no paradesporto para pessoas com deficiência visual?",
+        "resposta": "Atletas que correm ou competem junto com o deficiente visual para direcioná-lo.",
+        "alternativas_erradas": [
+            "Voluntários que trabalham na bilheteria e na orientação do público.",
+            "Cães de assistência treinados para permanecer na linha de chegada.",
+            "Dispositivos eletrônicos baseados em GPS acoplados à cintura do competidor."
+        ]
+    },
+    {
+        "pergunta": "Qual é a função específica dos 'calheiros' na Bocha Paralímpica?",
+        "resposta": "Posicionar a calha seguindo a indicação e comando do atleta com comprometimento motor.",
+        "alternativas_erradas": [
+            "Limpar a quadra de jogo durante os intervalos para evitar o escorregamento.",
+            "Cronometrar o tempo de cada jogada e aplicar as penalidades de cartão.",
+            "Carregar as malas e os pertences pessoais da equipe técnica até o hotel."
+        ]
+    },
+    {
+        "pergunta": "O que faz um 'Classificador Funcional' no Paradesporto?",
+        "resposta": "Avalia o impacto da deficiência nos movimentos para criar classes de competição justas.",
+        "alternativas_erradas": [
+            "Seleciona os atletas que têm direito a receber maiores salários e bolsas.",
+            "Organiza o ranking mundial de acordo com o número total de medalhas de ouro.",
+            "Responsabiliza-se por aprovar ou reprovar o design das marcas nos uniformes."
+        ]
+    },
+    {
+        "pergunta": "O que significa o conceito de 'Acessibilidade Atitudinal'?",
+        "resposta": "A eliminação de preconceitos e estigmas, promovendo o respeito e a valorização.",
+        "alternativas_erradas": [
+            "A instalação de rampas, elevadores e pisos podotáteis em prédios públicos.",
+            "O direito de atletas de alta performance escolherem os horários de seus treinos.",
+            "A obrigatoriedade de aprovação de leis esportivas por unanimidade no parlamento."
+        ]
+    },
+    {
+        "pergunta": "Qual o papel fundamental dos parlamentares no paradesporto segundo o Guia?",
+        "resposta": "Legislar, fiscalizar e destinar recursos (emendas) para os eixos estruturantes.",
+        "alternativas_erradas": [
+            "Atuar como técnicos principais ou árbitros das finais de campeonatos.",
+            "Definir quais atletas individuais devem ser convocados para as Paralimpíadas.",
+            "Substituir as confederações esportivas na organização das regras técnicas."
+        ]
+    },
+    {
+        "pergunta": "Qual deve ser a prioridade do parlamentar ao destinar emendas para 'Infraestrutura'?",
+        "resposta": "Garantir reformas ou construções que cumpram as normas de acessibilidade universal.",
+        "alternativas_erradas": [
+            "Construir camarotes de luxo exclusivos para autoridades em estádios.",
+            "Financiar a privatização de praças públicas de lazer para exploração comercial.",
+            "Priorizar obras de estética da fachada em detrimento de rampas e banheiros."
+        ]
+    },
+    {
+        "pergunta": "No fomento a 'Projetos Sociais e Educacionais', as emendas devem buscar:",
+        "resposta": "Ampliar a oferta de iniciação paradesportiva no contraturno escolar.",
+        "alternativas_erradas": [
+            "Custear viagens de turismo internacional para equipes de marketing político.",
+            "Garantir a compra de equipamentos sofisticados de uso exclusivo dos gestores.",
+            "Restringir o acesso às atividades apenas para alunos com notas máximas."
+        ]
+    },
+    {
+        "pergunta": "Por que o investimento em materiais de tecnologia assistiva é um desafio?",
+        "resposta": "Devido ao alto custo e à necessidade de importação ou customização individual.",
+        "alternativas_erradas": [
+            "Porque o uso de tecnologia assistiva foi banido pelo Comitê Paralímpico.",
+            "Porque esses materiais são descartáveis e estragam após uma única partida.",
+            "Porque a legislação proíbe o uso de recursos públicos para materiais duráveis."
+        ]
+    },
+    {
+        "pergunta": "Como o Guia conceitua a 'Capacitação Continuada' em Recursos Humanos?",
+        "resposta": "Investir na formação técnica e pedagógica constante de professores e treinadores.",
+        "alternativas_erradas": [
+            "Exigir que todos os profissionais façam exames de aptidão física militar.",
+            "Substituir os profissionais por voluntários sem formação para reduzir custos.",
+            "Oferecer cursos voltados exclusivamente para a administração financeira de clubes."
+        ]
+    },
+    {
+        "pergunta": "Qual argumento social justifica o investimento público no paradesporto?",
+        "resposta": "Transforma vidas, melhora a saúde pública, reduz custos hospitalares e promove a inclusão.",
+        "alternativas_erradas": [
+            "O paradesporto é a única ferramenta capaz de erradicar a inflação municipal.",
+            "Garante o retorno financeiro imediato via arrecadação de ingressos em arenas.",
+            "O desenvolvimento esportivo elimina a necessidade de investir em segurança."
+        ]
+    },
+    {
+        "pergunta": "Em qual modalidade a figura do 'Guia' é crucial nas provas de corrida?",
+        "resposta": "Atletismo Paralímpico",
+        "alternativas_erradas": [
+            "Natação Paralímpica",
+            "Halterofilismo",
+            "Tênis de Mesa em Cadeira de Rodas"
+        ]
+    },
+    {
+        "pergunta": "A quem se destina primordialmente o Guia Parlamentar sobre o Paradesporto?",
+        "resposta": "Aos atores do poder legislativo (vereadores, deputados, senadores) e gestores públicos.",
+        "alternativas_erradas": [
+            "Exclusivamente a fabricantes estrangeiros de próteses mecânicas.",
+            "A estudantes de graduação em contabilidade e auditoria fiscal.",
+            "A árbitros de futebol convencional interessados em regras de impedimento."
+        ]
+    },
+    {
+        "pergunta": "O que significa 'Anticapacitista' no contexto do paradesporto?",
+        "resposta": "Combate ativo ao preconceito (capacitismo) que subestima as pessoas com deficiência.",
+        "alternativas_erradas": [
+            "Um movimento que defende a abolição de qualquer tipo de regra ou pontuação.",
+            "Uma diretriz técnica que visa aumentar a carga horária de treinos exaustivos.",
+            "A oposição política à criação de novas secretarias voltadas ao esporte."
+        ]
+    },
+    {
+        "pergunta": "Qual a orientação do Guia sobre o planejamento de eventos municipais?",
+        "resposta": "Devem ser descentralizados e integrados aos calendários escolares e comunitários.",
+        "alternativas_erradas": [
+            "Devem ocorrer exclusivamente na capital federal para reduzir custos de viagem.",
+            "Devem cobrar ingressos caros para restringir o acesso à elite econômica.",
+            "Devem proibir a participação de iniciantes, permitindo apenas profissionais."
+        ]
+    },
+    {
+        "pergunta": "Qual o benefício de desenvolver pesquisas científicas no paradesporto?",
+        "resposta": "Fornecer evidências para melhorar a segurança, reabilitação e alta performance.",
+        "alternativas_erradas": [
+            "Reduzir o tempo de duração das partidas para torná-las mais comerciais.",
+            "Substituir os treinos práticos por aulas teóricas obrigatórias.",
+            "Comprovar a superioridade de uma deficiência em relação a outra."
+        ]
+    },
+    {
+        "pergunta": "A parceria entre Universidades e o Paradesporto visa principalmente a:",
+        "resposta": "Formação profissional, produção de conhecimento e projetos de extensão comunitária.",
+        "alternativas_erradas": [
+            "Venda de patentes tecnológicas para grandes corporações privadas.",
+            "Substituição das federações esportivas na aplicação de punições judiciais.",
+            "Isenção de impostos comerciais para indústrias de bebidas energéticas."
+        ]
+    },
+    {
+        "pergunta": "Como emendas para 'Materiais Adaptados' impactam as comunidades?",
+        "resposta": "Permitem que projetos ofereçam materiais adequados para quem não pode comprá-los.",
+        "alternativas_erradas": [
+            "Garantem que a prefeitura revenda esses materiais com lucro para outros estados.",
+            "Focam na estocagem de equipamentos em depósitos fechados para valorização.",
+            "Atendem exclusivamente às demandas de clubes privados de futebol profissional."
+        ]
+    },
+    {
+        "pergunta": "No modelo do Guia, o esporte para pessoas com deficiência deve ser visto como:",
+        "resposta": "Um direito fundamental garantido por lei e um vetor de desenvolvimento social.",
+        "alternativas_erradas": [
+            "Uma atividade puramente caritativa dependente apenas de doações voluntárias.",
+            "Um privilégio restrito a indivíduos que nasceram em famílias de alta renda.",
+            "Uma prática médica obrigatória voltada unicamente à cura clínica."
+        ]
+    },
+    {
+        "pergunta": "A coordenação deste Guia Parlamentar ficou sob a responsabilidade de quem?",
+        "resposta": "Prof. Dr. Ciro Winckler – UNIFESP.",
+        "alternativas_erradas": [
+            "Prof. Dr. Ricardo Guerra – USP.",
+            "Profa. Dra. Ruth Cidade – UFPR.",
+            "Prof. Dr. Anderson Santana – UNICAMP."
+        ]
+    }
+]

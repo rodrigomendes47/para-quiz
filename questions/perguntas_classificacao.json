@@ -1,0 +1,302 @@
+[
+  {
+    "pergunta": "Qual o primeiro papel básico da classificação no Paradesporto?",
+    "resposta": "Identificar quem está apto a competir (elegibilidade).",
+    "alternativas_erradas": [
+      "Determinar a premiação financeira dos atletas.",
+      "Selecionar os patrocinadores de cada modalidade.",
+      "Definir os locais e a duração das competições."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Qual o segundo papel básico da classificação no Paradesporto?",
+    "resposta": "Garantir grupos com condições similares (equidade).",
+    "alternativas_erradas": [
+      "Garantir medalhas de participação para todos.",
+      "Misturar atletas com e sem deficiência na equipe.",
+      "Padronizar os equipamentos de todas as modalidades."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Que aspecto positivo da classificação é destacado pelo manual?",
+    "resposta": "A inserção do atleta para demonstrar o seu potencial.",
+    "alternativas_erradas": [
+      "A exclusão de atletas de elite do esporte recreativo.",
+      "A burocratização do acesso às confederações.",
+      "A redução dos custos operacionais dos eventos."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Que aspecto é considerado negativo no sistema atual de classificação?",
+    "resposta": "Atletas com certas deficiências não serem elegíveis.",
+    "alternativas_erradas": [
+      "A exigência de exames antidoping frequentes.",
+      "A falta de uniformes adequados para treinadores.",
+      "A limitação de público nos estádios paralímpicos."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Qual deve ser a postura pedagógica do treinador após a classificação?",
+    "resposta": "Encaminhar o aluno segundo as suas possibilidades e objetivos.",
+    "alternativas_erradas": [
+      "Dispensar o aluno caso ele seja inelegível.",
+      "Contestar judicialmente todas as decisões da banca.",
+      "Focar o treino apenas em alunos com deficiências leves."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Segundo a OMS (2013), como é definida a 'Deficiência'?",
+    "resposta": "Perda ou anormalidade de uma estrutura ou função corporal.",
+    "alternativas_erradas": [
+      "Dificuldades enfrentadas apenas no ambiente escolar.",
+      "Barreiras sociais causadas pela falta de acessibilidade.",
+      "Incapacidade total e permanente para o trabalho."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "De acordo com a OMS (2013), o que conceitua a 'Restrição'?",
+    "resposta": "Dificuldades que o indivíduo encontra ao executar atividades.",
+    "alternativas_erradas": [
+      "A perda física de um membro do corpo.",
+      "Fatores ambientais que impedem a locomoção urbana.",
+      "O diagnóstico clínico emitido por um médico especialista."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Como é descrita a 'Incapacidade' nos pilares abordados?",
+    "resposta": "Aspetos negativos da interação entre a saúde e fatores contextuais.",
+    "alternativas_erradas": [
+      "A ausência congênita de um ou mais membros.",
+      "A diminuição isolada da audição em ambos os ouvidos.",
+      "O nível de stresse psicológico pré-competição."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Qual a referência do Censo de 1991 para formular as perguntas sobre deficiência?",
+    "resposta": "Conceitos biomédicos (amputação, cegueira, surdez, lesão medular).",
+    "alternativas_erradas": [
+      "A perceção de barreiras arquitetónicas em casa.",
+      "O modelo puramente social de interação com o meio.",
+      "A Classificação Internacional de Funcionalidade (CIF) completa."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "O que o Censo de 2000 buscou entender sobre a deficiência?",
+    "resposta": "Os aspetos biomédicos e a perceção da interação com o meio.",
+    "alternativas_erradas": [
+      "Apenas os custos financeiros com tratamentos médicos.",
+      "Exclusivamente a inserção no mercado de trabalho.",
+      "A elegibilidade desportiva para as Paralimpíadas."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Em qual modelo o Censo de 2010 focou ao formular suas questões?",
+    "resposta": "Na perceção das pessoas nas interações com o meio (social).",
+    "alternativas_erradas": [
+      "No modelo biomédico focado estritamente na patologia.",
+      "No histórico genético e hereditário das famílias.",
+      "Nas taxas de internamento hospitalar por causas externas."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "A que se deve o aumento da população com deficiência nos Censos (1991 a 2010)?",
+    "resposta": "À mudança nos critérios e na formulação das questões.",
+    "alternativas_erradas": [
+      "A uma epidemia nacional de doenças crónicas.",
+      "Ao aumento expressivo de acidentes de trânsito.",
+      "À falta de atendimento médico básico nas periferias."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Para quem deve ser direcionado o atendimento especializado consensual?",
+    "resposta": "Pessoas que apresentem deficiências severas.",
+    "alternativas_erradas": [
+      "Atletas profissionais de alto rendimento exclusivamente.",
+      "Pessoas com deficiências temporárias ou leves.",
+      "Qualquer cidadão que relate cansaço físico rotineiro."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Qual o percentual de deficiência no Censo 2010 usando o corte do Grupo de Washington?",
+    "resposta": "6,7%",
+    "alternativas_erradas": [
+      "1,1%",
+      "14,8%",
+      "23,9%"
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Qual o percentual de deficiência apontado pela PNS de 2013 (modelo biomédico)?",
+    "resposta": "6,2%",
+    "alternativas_erradas": [
+      "1,1%",
+      "6,7%",
+      "14,8%"
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Do ponto de vista das Políticas Públicas, o que o esporte deve oportunizar?",
+    "resposta": "Práticas que atendam a diversidade, elegível ou não ao paradesporto.",
+    "alternativas_erradas": [
+      "Competições exclusivas para atletas com patrocínio.",
+      "Treinos rigorosos apenas para quem tem chances de medalha.",
+      "Isenção de impostos para clubes de futebol convencional."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Qual modalidade se baseia puramente em parâmetros biomédicos para classificação?",
+    "resposta": "Paradesporto dos surdos (baseado em testes audiométricos).",
+    "alternativas_erradas": [
+      "Atletismo paralímpico para deficiência física.",
+      "Natação paralímpica para deficiência física.",
+      "Special Olympics para deficiência intelectual."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "O que caracteriza as modalidades baseadas em parâmetros Bio-esportivos?",
+    "resposta": "Parâmetros mistos (biomédico, psicológico e técnico/funcional).",
+    "alternativas_erradas": [
+      "Baseiam-se exclusivamente em exames de sangue e DNA.",
+      "Consideram apenas a idade cronológica e o peso do atleta.",
+      "Focam unicamente na análise psicológica pré-competição."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "O que o atleta com deficiência física faz na classificação do Atletismo e Natação?",
+    "resposta": "Apresenta laudo, faz testes musculares e testes de campo.",
+    "alternativas_erradas": [
+      "Realiza testes cardiorrespiratórios máximos e exames de DNA.",
+      "Apresenta teste de QI e passa por entrevista psicológica.",
+      "Passa por exames audiométricos e de acuidade visual."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Que condição torna alguém inelegível no atletismo, mas elegível na natação ou vôlei?",
+    "resposta": "Amputação de mão com articulação do punho preservada.",
+    "alternativas_erradas": [
+      "Perda auditiva bilateral superior a 55 dB.",
+      "Baixa estatura acentuada devido ao nanismo.",
+      "Deficiência intelectual severa comprovada por laudo."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Qual o critério de elegibilidade no modelo da Special Olympics?",
+    "resposta": "Deficiência intelectual ou transtorno do desenvolvimento com laudo.",
+    "alternativas_erradas": [
+      "Deficiência física motora severa nos membros inferiores.",
+      "Perda auditiva de pelo menos 55 dB no melhor ouvido.",
+      "Atletas com deficiência visual classificados como B1."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Qual a idade mínima exigida pela Special Olympics para treinar e competir?",
+    "resposta": "08 anos",
+    "alternativas_erradas": [
+      "05 anos",
+      "12 anos",
+      "16 anos"
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Como são estruturados os grupos de competição na Special Olympics?",
+    "resposta": "De 3 a 8 atletas, divididos por género, idade e nível técnico.",
+    "alternativas_erradas": [
+      "Grupos de até 20 atletas divididos unicamente pelo peso.",
+      "Classes únicas que misturam géneros e idades sem distinção.",
+      "Grupos formados de acordo com a renda familiar dos atletas."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Qual a perda auditiva mínima exigida para a elegibilidade na Deaflympics?",
+    "resposta": "Pelo menos 55 dB no melhor ouvido.",
+    "alternativas_erradas": [
+      "Pelo menos 25 dB em ambos os ouvidos.",
+      "No máximo 40 dB no pior ouvido.",
+      "Pelo menos 90 dB em um único ouvido."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Como são formados os grupos de competição na Deaflympics?",
+    "resposta": "Classe única.",
+    "alternativas_erradas": [
+      "Classes divididas por faixas de 10 em 10 dB.",
+      "Grupos baseados na habilidade técnica avaliada em quadra.",
+      "Quatro classes funcionais distintas segundo a idade."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Quais são as três fases históricas da classificação no Movimento Paralímpico?",
+    "resposta": "Médica (1960-1980), Funcional (1990-2000) e Baseada em Evidências (2010-2020).",
+    "alternativas_erradas": [
+      "Classificação Amadora, Profissional e Tecnológica.",
+      "Classificação por Idade, por Peso e por Género.",
+      "Classificação Social, Corretiva e Inclusiva."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "O que caracterizava a Classificação Médica (1960-1980)?",
+    "resposta": "Era baseada estritamente na deficiência do atleta.",
+    "alternativas_erradas": [
+      "Era baseada no desempenho técnico e no tempo de prova.",
+      "Focava na ciência baseada em evidências biomecânicas.",
+      "Baseava-se exclusivamente na avaliação tática do treino."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "O que define a Classificação Baseada em Evidências (2010-2020)?",
+    "resposta": "Elegibilidade e testes fundamentados pela ciência.",
+    "alternativas_erradas": [
+      "A eliminação total de laudos médicos do processo.",
+      "A classificação baseada na opinião subjetiva dos árbitros.",
+      "O agrupamento de atletas pelo número de medalhas."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "Qual deficiência é elegível no Movimento Paralímpico segundo o manual?",
+    "resposta": "Limitação de Amplitude de Movimento Passivo.",
+    "alternativas_erradas": [
+      "Perda auditiva severa.",
+      "Transtorno de ansiedade generalizada.",
+      "Deficiência visual leve corrigível com óculos comuns."
+    ],
+    "categoria": "esportes"
+  },
+  {
+    "pergunta": "No paradesporto coletivo, qual exemplo o texto cita para a modalidade 'Combinado'?",
+    "resposta": "Goalball (classes B1, B2 e B3 competem juntos e vendados).",
+    "alternativas_erradas": [
+      "Futebol de cegos (onde o guarda-redes também deve ser cego).",
+      "Vôlei sentado (permitidos 5 atletas com deficiência mínima em quadra).",
+      "Futebol de 7 (que proíbe atletas com a classe FT1 em quadra)."
+    ],
+    "categoria": "esportes"
+  }
+]

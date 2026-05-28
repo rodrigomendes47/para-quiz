@@ -1,0 +1,272 @@
+[
+    {
+        "pergunta": "Segundo a OMS, quantas pessoas no mundo vivem com perda auditiva?",
+        "resposta": "430 milhões",
+        "alternativas_erradas": [
+            "150 milhões",
+            "280 milhões",
+            "610 milhões"
+        ]
+    },
+    {
+        "pergunta": "Como a OMS (2021) classifica a perda auditiva entre 20 e 35 dB?",
+        "resposta": "Perda Auditiva Leve",
+        "alternativas_erradas": [
+            "Audição Normal",
+            "Perda Auditiva Moderada",
+            "Perda Auditiva Severa"
+        ]
+    },
+    {
+        "pergunta": "Qual faixa de decibéis caracteriza a 'Perda Auditiva Profunda' na escala da OMS?",
+        "resposta": "80 a <95 dB",
+        "alternativas_erradas": [
+            "50 a <65 dB",
+            "65 a 80 dB",
+            "95 dB ou maior"
+        ]
+    },
+    {
+        "pergunta": "Quantas pessoas têm surdez ou perda auditiva severa no Brasil (Censo 2022)?",
+        "resposta": "2,51 milhões (1,2% da população)",
+        "alternativas_erradas": [
+            "1,50 milhão (0,8% da população)",
+            "3,20 milhões (2,0% da população)",
+            "4,30 milhões (2,5% da população)"
+        ]
+    },
+    {
+        "pergunta": "Qual fator demográfico está ligado ao aumento da prevalência de perda auditiva?",
+        "resposta": "O aumento da prevalência após os 60 anos de idade",
+        "alternativas_erradas": [
+            "O crescimento da população infantil nas capitais",
+            "A exposição prolongada a ruídos na adolescência",
+            "Fatores genéticos restritos à região Norte"
+        ]
+    },
+    {
+        "pergunta": "No Brasil (Decreto 3.298/1999), a partir de quantos dB o indivíduo é considerado surdo?",
+        "resposta": "A partir de 41 dB",
+        "alternativas_erradas": [
+            "A partir de 25 dB",
+            "A partir de 35 dB",
+            "A partir de 55 dB"
+        ]
+    },
+    {
+        "pergunta": "Por que as causas neurossensoriais exigem atenção ao equilíbrio no Paradesporto?",
+        "resposta": "Porque elas afetam o sistema vestibular do indivíduo",
+        "alternativas_erradas": [
+            "Porque causam fadiga muscular precoce nas pernas",
+            "Porque reduzem a capacidade de oxigenação pulmonar",
+            "Porque impedem o uso de calçados esportivos comuns"
+        ]
+    },
+    {
+        "pergunta": "Quais causas de perda auditiva são citadas explicitamente no texto?",
+        "resposta": "Infecções intrauterinas, hipoxia, medicamentos e meningite",
+        "alternativas_erradas": [
+            "Traumatismo craniano, diabetes gestacional e miopia",
+            "Exposição solar excessiva, desidratação e sedentarismo",
+            "Estresse ocupacional, tabagismo e falta de vitamina D"
+        ]
+    },
+    {
+        "pergunta": "Onde se localiza a lesão que caracteriza a perda auditiva 'Condutiva'?",
+        "resposta": "No ouvido externo e médio",
+        "alternativas_erradas": [
+            "Nas células ciliadas de Corti",
+            "No córtex temporal",
+            "Na via auditiva do tronco cerebral"
+        ]
+    },
+    {
+        "pergunta": "Quais estruturas são afetadas pela perda auditiva do tipo 'Central'?",
+        "resposta": "A via auditiva no tronco cerebral, regiões subcorticais ou córtex temporal",
+        "alternativas_erradas": [
+            "O ouvido externo e a membrana timpânica",
+            "Os ossículos martelo, bigorna e estribo",
+            "Apenas o canal semicircular superior"
+        ]
+    },
+    {
+        "pergunta": "Na linha do tempo do desporto surdo, o que marcou o ano de 1760?",
+        "resposta": "Fundação da 1ª Escola para Surdos a usar sinais, por l'Épée",
+        "alternativas_erradas": [
+            "Organização das primeiras competições de beisebol nos EUA",
+            "Criação dos primeiros clubes de futebol para surdos na Escócia",
+            "Realização do primeiro jogo internacional de futebol de surdos"
+        ]
+    },
+    {
+        "pergunta": "Qual marco histórico da comunidade surda ocorreu no Brasil em 1857?",
+        "resposta": "Fundação do Instituto dos Surdos-Mudos do Rio de Janeiro (INES)",
+        "alternativas_erradas": [
+            "Fundação da Federação Carioca de Surdos Mudos (FDSERJ)",
+            "Sistematização do Movimento Esportivo dos Surdos no país",
+            "Fundação da Confederação Brasileira de Desportos para Surdos"
+        ]
+    },
+    {
+        "pergunta": "Em qual país e ano surgiram os primeiros clubes de futebol para surdos?",
+        "resposta": "Na Escócia, em 1880",
+        "alternativas_erradas": [
+            "Na Inglaterra, em 1910",
+            "Nos Estados Unidos, em 1870",
+            "No Brasil, em 1930"
+        ]
+    },
+    {
+        "pergunta": "Por que o ano de 1924 é fundamental para o desporto surdolímpico?",
+        "resposta": "Criação do ICSD e realização dos 1ºs Jogos do Silêncio",
+        "alternativas_erradas": [
+            "Inclusão dos surdos nos Jogos Olímpicos de Paris",
+            "Primeiro jogo internacional entre Escócia e Inglaterra",
+            "Fundação da Organização Pan-americana de Esportes para Surdos"
+        ]
+    },
+    {
+        "pergunta": "Em que ano o Brasil se filiou ao Comitê Internacional de Esporte para Surdos?",
+        "resposta": "1965",
+        "alternativas_erradas": [
+            "1959",
+            "1979",
+            "1984"
+        ]
+    },
+    {
+        "pergunta": "Qual entidade de gestão do desporto surdo foi fundada no Brasil em 1984?",
+        "resposta": "Confederação Brasileira de Desportos para Surdos (CBDS)",
+        "alternativas_erradas": [
+            "Federação Carioca de Surdos Mudos (FDSERJ)",
+            "Grêmio Estudantil do INES",
+            "Comitê Paralímpico Brasileiro (CPB)"
+        ]
+    },
+    {
+        "pergunta": "Quando o Brasil participou oficialmente dos Jogos Surdolímpicos pela primeira vez?",
+        "resposta": "Em 1993",
+        "alternativas_erradas": [
+            "Em 1965",
+            "Em 1984",
+            "Em 2009"
+        ]
+    },
+    {
+        "pergunta": "Quem ganhou a primeira medalha olímpica do Brasil no Deaflympics e em qual ano?",
+        "resposta": "Alexandre S. Fernandes, em 2009",
+        "alternativas_erradas": [
+            "Guilherme Maia, em 2017",
+            "Anderson M. Santana Jr, em 2022",
+            "Ciro Winckler, em 1993"
+        ]
+    },
+    {
+        "pergunta": "Quem conquistou a primeira medalha de Ouro do Brasil no Deaflympics e em que ano?",
+        "resposta": "Guilherme Maia, em 2017",
+        "alternativas_erradas": [
+            "Alexandre S. Fernandes, em 2009",
+            "Hellen Silva, em 2022",
+            "David Stewart, em 1990"
+        ]
+    },
+    {
+        "pergunta": "Onde foi sediada a edição do Deaflympics de 2022 em solo brasileiro?",
+        "resposta": "Caxias do Sul",
+        "alternativas_erradas": [
+            "Rio de Janeiro",
+            "Santos",
+            "Porto Alegre"
+        ]
+    },
+    {
+        "pergunta": "Quantos países estão filiados ao ICSD e quando a PANAMDES foi fundada?",
+        "resposta": "177 países filiados; PANAMDES fundada em 1971",
+        "alternativas_erradas": [
+            "120 países filiados; PANAMDES fundada em 1965",
+            "195 países filiados; PANAMDES fundada em 1984",
+            "143 países filiados; PANAMDES fundada em 1959"
+        ]
+    },
+    {
+        "pergunta": "Qual o critério de elegibilidade biomédica para competir no Deaflympics?",
+        "resposta": "Perda auditiva de pelo menos 55 dB no melhor ouvido",
+        "alternativas_erradas": [
+            "Perda auditiva profunda de 95 dB em ambos os ouvidos",
+            "Perda auditiva leve a partir de 20 dB no ouvido esquerdo",
+            "Surdez total bilateral de 120 dB medida no ouvido externo"
+        ]
+    },
+    {
+        "pergunta": "Como funcionam as classes de competição no movimento surdolímpico?",
+        "resposta": "Competem todos em uma Classe única",
+        "alternativas_erradas": [
+            "São divididos em três classes baseadas no equilíbrio",
+            "Dividem-se entre surdos congênitos e adquiridos",
+            "São categorizados em classes leves, moderadas e profundas"
+        ]
+    },
+    {
+        "pergunta": "Quais dessas são modalidades de inverno disputadas no Deaflympics?",
+        "resposta": "Curling, Esqui Alpino, Esqui Cross Country, Hóquei e Snowboard",
+        "alternativas_erradas": [
+            "Bobsled, Patinação Artística, Luge e Skeleton",
+            "Salto de Esqui, Biatlo, Patinação de Velocidade e Curling",
+            "Snowboard, Hóquei na Grama, Esqui de Grama e Escalada"
+        ]
+    },
+    {
+        "pergunta": "Qual modalidade é classificada como 'Modalidade de Tomada de Decisão'?",
+        "resposta": "Xadrez",
+        "alternativas_erradas": [
+            "Orientação",
+            "Boliche",
+            "Golfe"
+        ]
+    },
+    {
+        "pergunta": "Como funcionam as regras das modalidades esportivas para os surdoatletas?",
+        "resposta": "As regras não mudam; ocorrem apenas adaptações visuais de auxílio",
+        "alternativas_erradas": [
+            "As regras mudam completamente para reduzir o tempo de jogo",
+            "É obrigatório usar aparelhos de amplificação sonora em campo",
+            "As dimensões das quadras e o peso das bolas caem em 30%"
+        ]
+    },
+    {
+        "pergunta": "Que adaptação visual substitui o som de largada na Natação e no Atletismo?",
+        "resposta": "Luzes de três cores ao lado da base de saída",
+        "alternativas_erradas": [
+            "Disparo de fumaça colorida e contagem em telões",
+            "Bandeiras de largada agitadas por três juízes",
+            "Vibração mecânica nos blocos de partida"
+        ]
+    },
+    {
+        "pergunta": "No Futebol e Futsal surdolímpicos, o que os árbitros usam para sinalizar as faltas?",
+        "resposta": "Bandeirinhas utilizadas por toda a equipe de arbitragem",
+        "alternativas_erradas": [
+            "Apitos de alta frequência com vibradores de pulso",
+            "Cartões luminosos eletrônicos piscantes",
+            "Sinais de fumaça disparados do centro da quadra"
+        ]
+    },
+    {
+        "pergunta": "Segundo Siv Fosshaug, o que pode enfraquecer o empoderamento do surdoatleta com ouvintes?",
+        "resposta": "A comunicação social inadequada com os colegas ouvintes",
+        "alternativas_erradas": [
+            "A disparidade severa de força física entre eles",
+            "A falta de uniformes e equipamentos adaptados",
+            "A diferença de regras aplicadas para atletas surdos"
+        ]
+    },
+    {
+        "pergunta": "Qual a orientação pedagógica sobre o uso de Libras nas atividades inclusivas?",
+        "resposta": "O uso é obrigatório, mas não se deve assumir que todo surdo sabe Libras",
+        "alternativas_erradas": [
+            "O professor deve focar as instruções apenas na voz",
+            "É garantido que todo indivíduo com perda auditiva domina a Libras",
+            "Recursos táteis devem substituir qualquer instrução visual"
+        ]
+    }
+]
