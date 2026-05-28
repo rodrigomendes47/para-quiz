@@ -69,6 +69,50 @@ const currentQSpan = document.getElementById('current-q');
 const totalQSpan = document.getElementById('total-q');
 const finalScoreDisplay = document.getElementById('final-score-display');
 
+// Accessibility DOM & Logic
+const accessibilityMenu = document.getElementById('accessibility-menu');
+const btnAccessibilityToggle = document.getElementById('btn-accessibility-toggle');
+const accessibilityOptions = document.getElementById('accessibility-options');
+const btnContrast = document.getElementById('btn-contrast');
+const btnFontDecrease = document.getElementById('btn-font-decrease');
+const btnFontIncrease = document.getElementById('btn-font-increase');
+
+let currentFontSize = 16;
+
+btnAccessibilityToggle.addEventListener('click', (e) => {
+    e.stopPropagation();
+    accessibilityOptions.classList.toggle('collapsed');
+    playSound('pop');
+});
+
+// Fechar ao clicar fora
+document.addEventListener('click', (e) => {
+    if (accessibilityMenu && !accessibilityMenu.contains(e.target)) {
+        accessibilityOptions.classList.add('collapsed');
+    }
+});
+
+btnContrast.addEventListener('click', () => {
+    document.documentElement.classList.toggle('high-contrast');
+    playSound('pop');
+});
+
+btnFontDecrease.addEventListener('click', () => {
+    if (currentFontSize > 12) {
+        currentFontSize -= 2;
+        document.documentElement.style.fontSize = `${currentFontSize}px`;
+        playSound('pop');
+    }
+});
+
+btnFontIncrease.addEventListener('click', () => {
+    if (currentFontSize < 24) {
+        currentFontSize += 2;
+        document.documentElement.style.fontSize = `${currentFontSize}px`;
+        playSound('pop');
+    }
+});
+
 // Init
 async function init() {
     updateLeaderboardView();
