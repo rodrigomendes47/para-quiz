@@ -45,7 +45,7 @@ let score = 0;
 let playerName = "";
 let gameQuestions = [];
 const POINTS_PER_Q = 100;
-let hearts = 3;
+// let hearts = 3;
 let skipsRemaining = 1;
 
 // DOM Elements
@@ -70,7 +70,7 @@ const scoreDisplay = document.getElementById('score-display');
 const currentQSpan = document.getElementById('current-q');
 const totalQSpan = document.getElementById('total-q');
 const finalScoreDisplay = document.getElementById('final-score-display');
-const healthBar = document.getElementById('health-bar');
+// const healthBar = document.getElementById('health-bar');
 // const btnSkip = document.getElementById('btn-skip');
 
 // Accessibility DOM & Logic
@@ -205,9 +205,9 @@ async function confirmConfigAndStart() {
     modalConfig.classList.add('hidden');
 
     score = 0;
-    hearts = 3;
-    skipsRemaining = 1;
-    updateHealthUI();
+    // hearts = 3;
+    // skipsRemaining = 1;
+    // updateHealthUI();
     // updateSkipUI();
 
     const shuffled = [...questionsData].sort(() => 0.5 - Math.random());
@@ -221,12 +221,12 @@ async function confirmConfigAndStart() {
     loadQuestion();
 }
 
-function updateHealthUI() {
-    let heartStr = "";
-    for (let i = 0; i < hearts; i++) heartStr += "❤️";
-    for (let i = hearts; i < 3; i++) heartStr += "🖤";
-    healthBar.textContent = heartStr;
-}
+// function updateHealthUI() {
+//     let heartStr = "";
+//     for (let i = 0; i < hearts; i++) heartStr += "❤️";
+//     for (let i = hearts; i < 3; i++) heartStr += "🖤";
+//     healthBar.textContent = heartStr;
+// }
 
 // function updateSkipUI() {
 //     if (skipsRemaining > 0) {
@@ -311,18 +311,18 @@ function selectOption(btn, isCorrect, correctAnswerText) {
         btn.classList.add('incorrect');
         playSound('incorrect');
 
-        hearts--;
-        updateHealthUI();
+        // hearts--;
+        // updateHealthUI();
 
         // document.getElementById('rival-mascot').style.transform = 'scale(1.2)';
         setTimeout(() => document.getElementById('rival-mascot').style.transform = '', 500);
     }
 
     setTimeout(() => {
-        if (hearts <= 0) {
-            endGame();
-            return;
-        }
+        // if (hearts <= 0) {
+        //     endGame();
+        //     return;
+        // }
 
         // Start fade out animation
         questionCard.classList.add('anim-fade-out');
