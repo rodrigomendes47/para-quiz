@@ -45,6 +45,8 @@ let score = 0;
 let playerName = "";
 let gameQuestions = [];
 const POINTS_PER_Q = 100;
+let hearts = 3;
+let skipsRemaining = 1;
 
 // DOM Elements
 const screenStart = document.getElementById('screen-start');
@@ -68,6 +70,8 @@ const scoreDisplay = document.getElementById('score-display');
 const currentQSpan = document.getElementById('current-q');
 const totalQSpan = document.getElementById('total-q');
 const finalScoreDisplay = document.getElementById('final-score-display');
+const healthBar = document.getElementById('health-bar');
+// const btnSkip = document.getElementById('btn-skip');
 
 // Accessibility DOM & Logic
 const accessibilityMenu = document.getElementById('accessibility-menu');
@@ -201,6 +205,10 @@ async function confirmConfigAndStart() {
     modalConfig.classList.add('hidden');
 
     score = 0;
+    hearts = 3;
+    skipsRemaining = 1;
+    updateHealthUI();
+    // updateSkipUI();
 
     const shuffled = [...questionsData].sort(() => 0.5 - Math.random());
     gameQuestions = shuffled.slice(0, totalQuestionsToPlay);
@@ -212,6 +220,23 @@ async function confirmConfigAndStart() {
     changeScreen(screenStart, screenGame);
     loadQuestion();
 }
+
+function updateHealthUI() {
+    let heartStr = "";
+    for (let i = 0; i < hearts; i++) heartStr += "❤️";
+    for (let i = hearts; i < 3; i++) heartStr += "🖤";
+    healthBar.textContent = heartStr;
+}
+
+// function updateSkipUI() {
+//     if (skipsRemaining > 0) {
+//         btnSkip.textContent = `PULAR QUESTÃO (${skipsRemaining})`;
+//         btnSkip.disabled = false;
+//     } else {
+//         btnSkip.textContent = "PULO USADO";
+//         btnSkip.disabled = true;
+//     }
+// }
 
 function getRandomInt(min, max) {
     // Increase max by 1 to make it inclusive
@@ -286,11 +311,19 @@ function selectOption(btn, isCorrect, correctAnswerText) {
         btn.classList.add('incorrect');
         playSound('incorrect');
 
+        hearts--;
+        updateHealthUI();
+
         // document.getElementById('rival-mascot').style.transform = 'scale(1.2)';
         setTimeout(() => document.getElementById('rival-mascot').style.transform = '', 500);
     }
 
     setTimeout(() => {
+        if (hearts <= 0) {
+            endGame();
+            return;
+        }
+
         // Start fade out animation
         questionCard.classList.add('anim-fade-out');
         optionsContainer.classList.add('anim-fade-out');
@@ -338,6 +371,35 @@ btnRestart.addEventListener('click', () => {
     playSound('pop');
     changeScreen(screenEnd, screenStart);
 });
+
+// btnSkip.addEventListener('click', () => {
+//     if (skipsRemaining > 0) {
+//         skipsRemaining--;
+//         updateSkipUI();
+//         playSound('pop');
+
+//         // Start fade out animation
+//         questionCard.classList.add('anim-fade-out');
+//         optionsContainer.classList.add('anim-fade-out');
+
+//         setTimeout(() => {
+//             currentQuestionIndex++;
+//             loadQuestion();
+
+//             // Remove fade out and trigger fade in
+//             questionCard.classList.remove('anim-fade-out');
+//             optionsContainer.classList.remove('anim-fade-out');
+//             questionCard.classList.add('anim-fade-in');
+//             optionsContainer.classList.add('anim-fade-in');
+
+//             // Clean up animation class after it completes
+//             setTimeout(() => {
+//                 questionCard.classList.remove('anim-fade-in');
+//                 optionsContainer.classList.remove('anim-fade-in');
+//             }, 250);
+//         }, 250);
+//     }
+// });
 
 // Run Init
 window.onload = init;

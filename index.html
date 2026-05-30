@@ -14,11 +14,15 @@
         <!-- Menu de Acessibilidade -->
         <div id="accessibility-menu" class="accessibility-menu">
             <div id="accessibility-options" class="accessibility-options collapsed">
-                <button id="btn-contrast" class="btn-access" title="Alto Contraste" aria-label="Alternar Alto Contraste">◐</button>
-                <button id="btn-font-decrease" class="btn-access" title="Diminuir Fonte" aria-label="Diminuir tamanho da fonte">A-</button>
-                <button id="btn-font-increase" class="btn-access" title="Aumentar Fonte" aria-label="Aumentar tamanho da fonte">A+</button>
+                <button id="btn-contrast" class="btn-access" title="Alto Contraste"
+                    aria-label="Alternar Alto Contraste">◐</button>
+                <button id="btn-font-decrease" class="btn-access" title="Diminuir Fonte"
+                    aria-label="Diminuir tamanho da fonte">A-</button>
+                <button id="btn-font-increase" class="btn-access" title="Aumentar Fonte"
+                    aria-label="Aumentar tamanho da fonte">A+</button>
             </div>
-            <button id="btn-accessibility-toggle" class="btn-access-toggle" title="Acessibilidade" aria-label="Abrir opções de acessibilidade">♿</button>
+            <button id="btn-accessibility-toggle" class="btn-access-toggle" title="Acessibilidade"
+                aria-label="Abrir opções de acessibilidade">♿</button>
         </div>
 
         <!-- Tela de Início / Leaderboard -->
@@ -76,6 +80,7 @@
         <div id="screen-game" class="screen hidden">
             <div class="top-bar">
                 <div class="score-pill">Pontos: <span id="score-display">0</span></div>
+                <div id="health-bar" class="health-bar">❤️❤️❤️</div>
                 <div class="question-count">Q <span id="current-q">1</span>/<span id="total-q">10</span></div>
             </div>
 
@@ -91,6 +96,8 @@
             <div id="options-container" class="options-grid">
                 <!-- Botões de opção gerados no JS -->
             </div>
+
+            <!-- <button id="btn-skip" class="btn-skip">PULAR QUESTÃO (1)</button> -->
         </div>
 
         <!-- Tela de Fim de Jogo -->
